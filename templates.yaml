@@ -1,0 +1,5 @@
+launch: I am listening .. What is it ?
+confirm_before_save: Please confirm. New word is, {{new_word}} ,and its meaning is, {{meaning}}. Can I add it to your dictionary?
+confirmed: The new word will be saved to your dictionary. Happy Learning
+discard: Sorry, I am discarding the word. Please teach me again later.
+default: Oh-aw! I couldn't understand you. Please try again
